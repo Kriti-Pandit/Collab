@@ -37,5 +37,5 @@ jobs:
     - name: Test with pytest
       run: |
         python  add.py
-        python  add1.py
+        python  add2.py
         python  sub.py
